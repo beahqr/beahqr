@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Beatriz 👋
 
-<!--
-**beahqr/beahqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student from Brazil  
+💻 Learning Python, Java and Software Development  
+⚙️ Interested in Automation, Data Analysis and Technology  
 
-Here are some ideas to get you started:
+## 🚀 Currently learning
+- Python
+- Java
+- Automation with Python
+- Software Development fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Goals
+Build projects and grow as a developer while pursuing opportunities in tech.
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/seu-link
