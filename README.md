@@ -19,4 +19,5 @@ LinkedIn: https://www.linkedin.com/in/seu-link
 ## 📊 GitHub Stats
 
 ![Beatriz GitHub stats](https://github-readme-stats.vercel.app/api?username=beahqr&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beahqr&layout=compact&theme=tokyonight)
