@@ -4,14 +4,24 @@
 💻 Learning Python, Java and Software Development  
 ⚙️ Interested in Automation, Data Analysis and Technology  
 
-## 🚀 Currently learning
+## 🛠 Tech Stack
 - Python
-- Java
-- Automation with Python
-- Software Development fundamentals
+- Java (learning)
+- Flask
+- Pandas
+- SQLite
+- Git & Github
+
+## 🚀 Featured Projects
+* Smart Task Manager Web App
+Full-stack task management system using Flask and SQLite.
+* Customer Churn Analysis
+Data analysis project identifying churn drivers using Python and Pandas.
+* Task Manager CLI
+Object-oriented CLI application applying data structures concepts.
 
 ## 📌 Goals
-Build projects and grow as a developer while pursuing opportunities in tech.
+To grow as a full-stack developer building scalable and data-driven systems.
 
 ## 📫 Connect with me
 LinkedIn: https://www.linkedin.com/in/seu-link
