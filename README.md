@@ -14,10 +14,15 @@
 
 ## 🚀 Featured Projects
 * Smart Task Manager Web App
+
 Full-stack task management system using Flask and SQLite.
+
 * Customer Churn Analysis
+
 Data analysis project identifying churn drivers using Python and Pandas.
+
 * Task Manager CLI
+
 Object-oriented CLI application applying data structures concepts.
 
 ## 📌 Goals
